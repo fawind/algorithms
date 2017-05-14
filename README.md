@@ -1,2 +1,17 @@
 # algorithms
-Notes on Introduction to Algorithms
+
+Notes on [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) and [Stanford's Algorithm Specialization](https://www.coursera.org/specializations/algorithms).
+
+## Content
+
+### 1) Divide and Conquer, Sorting, Searching, and Randomized Algorithms
+
+* [O-Notation](https://github.com/fawind/algorithms/blob/master/01-dc-sort-search-randomized/01_o_notation.ipynb)
+* [Divide and Conquer and Master Theorem](https://github.com/fawind/algorithms/blob/master/01-dc-sort-search-randomized/02_divide_and_conquer.ipynb)
+  * MergeSort, Count Inversions, Strassen's Matrix Multiplication
+
+### 2) Graph Search, Shortest Paths, and Data Structures
+
+### 3) Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+
+### 4) Shortest Paths and NP-Complete Problems

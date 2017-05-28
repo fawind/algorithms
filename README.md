@@ -10,6 +10,7 @@ Notes on [Introduction to Algorithms](https://mitpress.mit.edu/books/introductio
 * [Divide and Conquer and Master Theorem](https://github.com/fawind/algorithms/blob/master/01-dc-sort-search-randomized/02_divide_and_conquer.ipynb)
   * MergeSort, Count Inversions, Strassen's Matrix Multiplication, Closest Pair, Master Theorem
 * [Quicksort](https://github.com/fawind/algorithms/blob/master/01-dc-sort-search-randomized/03_quicksort.ipynb)
+  * Proof of avg runtime complexity
 
 ### 2) Graph Search, Shortest Paths, and Data Structures
 

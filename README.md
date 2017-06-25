@@ -13,7 +13,8 @@ Notes on [Introduction to Algorithms](https://mitpress.mit.edu/books/introductio
   * Proof of avg runtime complexity, Omega(n log n) lower bound for comparision based sorting
 * [Linear Time Selection](https://github.com/fawind/algorithms/blob/master/01-dc-sort-search-randomized/04_linear_time_selection.ipynb)
   * Random Select, Deterministic Select (Median of Medians)
-* [Graphs and Contraction Algorithm](https://github.com/fawind/algorithms/blob/master/01-dc-sort-search-randomized/05_graphs_and_contraction_algorithm.ipynb)
+* [Minimal Cut and Contraction Algorithm](https://github.com/fawind/algorithms/blob/master/01-dc-sort-search-randomized/05_min_cut_and_contraction_algorithm.ipynb)
+  * Probability of finding min cuts, maximum number of min cuts
 
 ### 2) Graph Search, Shortest Paths, and Data Structures
 

@@ -18,6 +18,9 @@ Notes on [Introduction to Algorithms](https://mitpress.mit.edu/books/introductio
 
 ### 2) Graph Search, Shortest Paths, and Data Structures
 
+* [Graph Search](https://github.com/fawind/algorithms/blob/master/02-graphSearch-shortestPath-dataStructures/01_graph_search_and_topo_sort.ipynb)
+  * BFS, DFS, Topological Sort
+
 ### 3) Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 
 ### 4) Shortest Paths and NP-Complete Problems

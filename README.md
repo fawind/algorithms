@@ -23,6 +23,8 @@ Notes on [Introduction to Algorithms](https://mitpress.mit.edu/books/introductio
 * [Heap](https://github.com/fawind/algorithms/blob/master/02-graphSearch-shortestPath-dataStructures/02_heap.ipynb)
 * [Balanced Binary Search Trees](https://github.com/fawind/algorithms/blob/master/02-graphSearch-shortestPath-dataStructures/03_balanced_binary_search_trees.ipynb)
   * Binary Search Trees, Red-Black Trees
+* [Hashing](https://github.com/fawind/algorithms/blob/master/02-graphSearch-shortestPath-dataStructures/04_hashing.ipynb)
+  * Chaining vs Open Addressing, Universal Hash Functions, Constant Time Guarantee of Chaining, Performance of Open Addressing, Bloom Filters
 
 ### 3) Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 

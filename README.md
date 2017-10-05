@@ -21,6 +21,8 @@ Notes on [Introduction to Algorithms](https://mitpress.mit.edu/books/introductio
 * [Graph Search](https://github.com/fawind/algorithms/blob/master/02-graphSearch-shortestPath-dataStructures/01_graph_search_and_topo_sort.ipynb)
   * BFS, DFS, Topological Sort, Strongly Connected Components (Kosaraju)
 * [Heap](https://github.com/fawind/algorithms/blob/master/02-graphSearch-shortestPath-dataStructures/02_heap.ipynb)
+* [Balanced Binary Search Trees](https://github.com/fawind/algorithms/blob/master/02-graphSearch-shortestPath-dataStructures/03_balanced_binary_search_trees.ipynb)
+  * Binary Search Trees, Red-Black Trees
 
 ### 3) Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 

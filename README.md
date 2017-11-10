@@ -1,4 +1,4 @@
-# algorithms
+# Algorithms
 
 Notes on [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) and [Stanford's Algorithm Specialization](https://www.coursera.org/specializations/algorithms).
 
@@ -27,5 +27,10 @@ Notes on [Introduction to Algorithms](https://mitpress.mit.edu/books/introductio
   * Chaining vs Open Addressing, Universal Hash Functions, Constant Time Guarantee of Chaining, Performance of Open Addressing, Bloom Filters
 
 ### 3) Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+
+* Greedy Algorithms
+* Minimum Spanning Trees
+* [Dynamic Programming](https://github.com/fawind/algorithms/blob/master/03-greedy-minSpanningTrees-dp/03_dynamic_programming.ipynb)
+  * Principles of DP, Weighted Independent Sets in Path Graphs
 
 ### 4) Shortest Paths and NP-Complete Problems
